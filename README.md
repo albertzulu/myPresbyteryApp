@@ -297,7 +297,7 @@ GNU General Public License v2.0 - See LICENSE file
 
 For issues and questions:
 - Create a GitHub Issue
-- Contact: albertzulu@example.com
+- Contact: albert@astute.co.zm
 
 ---
 
